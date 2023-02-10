@@ -4,7 +4,7 @@ Random Forest is a version of Ensemble Learning.Ensemble learning in simple term
 
 ## Dataset
 
-First let’s look at the dataset. It is Salaries.csv.
-It has 3 columns — “Position”, “Level” and “Salary” and describes the approximate salary range for an employee based on what level he falls under.
+- First let’s look at the dataset. It is Salaries.csv.
+- It has 3 columns — “Position”, “Level” and “Salary” and describes the approximate salary range for an employee based on what level he falls under.
 
-In this project, We want to build a model to predict what salary that should be offered to an employee based on Position and Level.
+### In this project, We want to build a model to predict what salary that should be offered to an employee based on Position and Level.
